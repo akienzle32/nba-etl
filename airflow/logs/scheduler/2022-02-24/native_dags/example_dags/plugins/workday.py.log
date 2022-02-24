@@ -2483,3 +2483,18 @@
 [2022-02-24 15:04:07,913] {logging_mixin.py:109} INFO - [2022-02-24 15:04:07,913] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
 [2022-02-24 15:04:07,925] {processor.py:656} WARNING - No viable dags retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
 [2022-02-24 15:04:07,926] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2022-02-24 15:04:43,907] {processor.py:163} INFO - Started process (PID=54699) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:04:43,908] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2022-02-24 15:04:43,908] {logging_mixin.py:109} INFO - [2022-02-24 15:04:43,908] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:04:43,920] {processor.py:656} WARNING - No viable dags retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:04:43,921] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2022-02-24 15:05:52,677] {processor.py:163} INFO - Started process (PID=55049) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:05:52,678] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2022-02-24 15:05:52,678] {logging_mixin.py:109} INFO - [2022-02-24 15:05:52,678] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:05:52,691] {processor.py:656} WARNING - No viable dags retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:05:52,691] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.015 seconds
+[2022-02-24 15:06:28,728] {processor.py:163} INFO - Started process (PID=55217) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:06:28,729] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2022-02-24 15:06:28,730] {logging_mixin.py:109} INFO - [2022-02-24 15:06:28,730] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:06:28,744] {processor.py:656} WARNING - No viable dags retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py
+[2022-02-24 15:06:28,745] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/plugins/workday.py took 0.017 seconds

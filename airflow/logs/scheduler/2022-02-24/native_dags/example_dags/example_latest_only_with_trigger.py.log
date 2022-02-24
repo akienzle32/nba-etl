@@ -1895,3 +1895,17 @@
 [2022-02-24 15:03:45,539] {logging_mixin.py:109} INFO - [2022-02-24 15:03:45,539] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:03:45,544] {logging_mixin.py:109} INFO - [2022-02-24 15:03:45,544] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-02-24T19:03:45.544674+00:00
 [2022-02-24 15:03:45,549] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.040 seconds
+[2022-02-24 15:04:59,160] {processor.py:163} INFO - Started process (PID=54796) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:04:59,161] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-02-24 15:04:59,161] {logging_mixin.py:109} INFO - [2022-02-24 15:04:59,161] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:04:59,177] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:04:59,187] {logging_mixin.py:109} INFO - [2022-02-24 15:04:59,187] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:04:59,191] {logging_mixin.py:109} INFO - [2022-02-24 15:04:59,191] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-02-24T19:04:59.191451+00:00
+[2022-02-24 15:04:59,195] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.035 seconds
+[2022-02-24 15:06:08,702] {processor.py:163} INFO - Started process (PID=55127) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:06:08,703] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2022-02-24 15:06:08,703] {logging_mixin.py:109} INFO - [2022-02-24 15:06:08,703] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:06:08,720] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only_with_trigger']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2022-02-24 15:06:08,733] {logging_mixin.py:109} INFO - [2022-02-24 15:06:08,733] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:06:08,742] {logging_mixin.py:109} INFO - [2022-02-24 15:06:08,742] {dag.py:2935} INFO - Setting next_dagrun for latest_only_with_trigger to 2022-02-24T19:06:08.741523+00:00
+[2022-02-24 15:06:08,748] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.046 seconds

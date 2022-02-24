@@ -1888,3 +1888,17 @@
 [2022-02-24 15:03:35,789] {logging_mixin.py:109} INFO - [2022-02-24 15:03:35,789] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:03:35,793] {logging_mixin.py:109} INFO - [2022-02-24 15:03:35,793] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-02-23T23:03:35.793502+00:00
 [2022-02-24 15:03:35,798] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds
+[2022-02-24 15:04:49,675] {processor.py:163} INFO - Started process (PID=54739) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:04:49,675] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-02-24 15:04:49,675] {logging_mixin.py:109} INFO - [2022-02-24 15:04:49,675] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:04:49,690] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:04:49,700] {logging_mixin.py:109} INFO - [2022-02-24 15:04:49,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:04:49,704] {logging_mixin.py:109} INFO - [2022-02-24 15:04:49,704] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-02-23T23:04:49.704258+00:00
+[2022-02-24 15:04:49,708] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-02-24 15:05:58,691] {processor.py:163} INFO - Started process (PID=55082) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:05:58,692] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-02-24 15:05:58,693] {logging_mixin.py:109} INFO - [2022-02-24 15:05:58,693] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:05:58,709] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-02-24 15:05:58,720] {logging_mixin.py:109} INFO - [2022-02-24 15:05:58,720] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:05:58,724] {logging_mixin.py:109} INFO - [2022-02-24 15:05:58,724] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2022-02-23T23:05:58.724596+00:00
+[2022-02-24 15:05:58,728] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.037 seconds

@@ -1888,3 +1888,17 @@
 [2022-02-24 15:03:33,774] {logging_mixin.py:109} INFO - [2022-02-24 15:03:33,774] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:03:33,781] {logging_mixin.py:109} INFO - [2022-02-24 15:03:33,781] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2022-02-24T23:00:00+00:00
 [2022-02-24 15:03:33,785] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.046 seconds
+[2022-02-24 15:04:47,766] {processor.py:163} INFO - Started process (PID=54717) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:04:47,767] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-02-24 15:04:47,767] {logging_mixin.py:109} INFO - [2022-02-24 15:04:47,767] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:04:47,790] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:04:47,801] {logging_mixin.py:109} INFO - [2022-02-24 15:04:47,801] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:04:47,807] {logging_mixin.py:109} INFO - [2022-02-24 15:04:47,807] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2022-02-24T23:02:00+00:00
+[2022-02-24 15:04:47,810] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-02-24 15:05:56,716] {processor.py:163} INFO - Started process (PID=55071) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:05:56,717] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-02-24 15:05:56,717] {logging_mixin.py:109} INFO - [2022-02-24 15:05:56,717] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:05:56,741] {processor.py:654} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-02-24 15:05:56,751] {logging_mixin.py:109} INFO - [2022-02-24 15:05:56,751] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:05:56,757] {logging_mixin.py:109} INFO - [2022-02-24 15:05:56,757] {dag.py:2935} INFO - Setting next_dagrun for example_sla_dag to 2022-02-24T23:02:00+00:00
+[2022-02-24 15:05:56,761] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.045 seconds
