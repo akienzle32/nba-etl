@@ -1944,3 +1944,24 @@
 [2022-02-24 15:10:20,073] {logging_mixin.py:109} INFO - [2022-02-24 15:10:20,073] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:10:20,077] {logging_mixin.py:109} INFO - [2022-02-24 15:10:20,077] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
 [2022-02-24 15:10:20,081] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.039 seconds
+[2022-02-24 15:11:31,769] {processor.py:163} INFO - Started process (PID=56593) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:11:31,770] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-02-24 15:11:31,770] {logging_mixin.py:109} INFO - [2022-02-24 15:11:31,770] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:11:31,789] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:11:31,801] {logging_mixin.py:109} INFO - [2022-02-24 15:11:31,801] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:11:31,806] {logging_mixin.py:109} INFO - [2022-02-24 15:11:31,806] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:11:31,810] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.041 seconds
+[2022-02-24 15:12:43,788] {processor.py:163} INFO - Started process (PID=56925) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:12:43,789] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-02-24 15:12:43,789] {logging_mixin.py:109} INFO - [2022-02-24 15:12:43,789] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:12:43,809] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:12:43,820] {logging_mixin.py:109} INFO - [2022-02-24 15:12:43,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:43,825] {logging_mixin.py:109} INFO - [2022-02-24 15:12:43,825] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:12:43,829] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.042 seconds
+[2022-02-24 15:13:55,621] {processor.py:163} INFO - Started process (PID=57244) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:13:55,622] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2022-02-24 15:13:55,622] {logging_mixin.py:109} INFO - [2022-02-24 15:13:55,622] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:13:55,643] {processor.py:654} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2022-02-24 15:13:55,660] {logging_mixin.py:109} INFO - [2022-02-24 15:13:55,660] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:55,665] {logging_mixin.py:109} INFO - [2022-02-24 15:13:55,665] {dag.py:2935} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:13:55,670] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 0.049 seconds

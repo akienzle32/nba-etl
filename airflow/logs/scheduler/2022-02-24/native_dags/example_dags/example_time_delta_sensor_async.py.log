@@ -1944,3 +1944,24 @@
 [2022-02-24 15:10:22,091] {logging_mixin.py:109} INFO - [2022-02-24 15:10:22,091] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:10:22,096] {logging_mixin.py:109} INFO - [2022-02-24 15:10:22,096] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
 [2022-02-24 15:10:22,101] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.055 seconds
+[2022-02-24 15:11:33,777] {processor.py:163} INFO - Started process (PID=56607) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:11:33,777] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-02-24 15:11:33,778] {logging_mixin.py:109} INFO - [2022-02-24 15:11:33,778] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:11:33,797] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:11:33,807] {logging_mixin.py:109} INFO - [2022-02-24 15:11:33,807] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:11:33,812] {logging_mixin.py:109} INFO - [2022-02-24 15:11:33,812] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-02-24 15:11:33,817] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.040 seconds
+[2022-02-24 15:12:45,746] {processor.py:163} INFO - Started process (PID=56930) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:12:45,747] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-02-24 15:12:45,747] {logging_mixin.py:109} INFO - [2022-02-24 15:12:45,747] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:12:45,766] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:12:45,778] {logging_mixin.py:109} INFO - [2022-02-24 15:12:45,778] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:45,786] {logging_mixin.py:109} INFO - [2022-02-24 15:12:45,786] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-02-24 15:12:45,790] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.044 seconds
+[2022-02-24 15:13:57,609] {processor.py:163} INFO - Started process (PID=57248) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:13:57,609] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2022-02-24 15:13:57,609] {logging_mixin.py:109} INFO - [2022-02-24 15:13:57,609] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:13:57,627] {processor.py:654} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2022-02-24 15:13:57,640] {logging_mixin.py:109} INFO - [2022-02-24 15:13:57,640] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:57,646] {logging_mixin.py:109} INFO - [2022-02-24 15:13:57,646] {dag.py:2935} INFO - Setting next_dagrun for example_time_delta_sensor_async to None
+[2022-02-24 15:13:57,651] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 0.042 seconds

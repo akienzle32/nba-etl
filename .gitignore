@@ -1,6 +1,6 @@
 .env
 
-airflow/logs/
+airflow/logs
 
 airflow/standalone_admin_password.txt
 airflow/airflow-webserver.pid

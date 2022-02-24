@@ -2230,3 +2230,19 @@
 [2022-02-24 15:11:26,021] {logging_mixin.py:109} INFO - [2022-02-24 15:11:26,021] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
 [2022-02-24 15:11:26,021] {logging_mixin.py:109} INFO - [2022-02-24 15:11:26,021] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
 [2022-02-24 15:11:26,025] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.167 seconds
+[2022-02-24 15:12:37,743] {processor.py:163} INFO - Started process (PID=56901) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:12:37,744] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-02-24 15:12:37,744] {logging_mixin.py:109} INFO - [2022-02-24 15:12:37,744] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:12:37,770] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:12:37,884] {logging_mixin.py:109} INFO - [2022-02-24 15:12:37,884] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:12:37,889] {logging_mixin.py:109} INFO - [2022-02-24 15:12:37,889] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-02-24 15:12:37,889] {logging_mixin.py:109} INFO - [2022-02-24 15:12:37,889] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-02-24 15:12:37,893] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.151 seconds
+[2022-02-24 15:13:49,577] {processor.py:163} INFO - Started process (PID=57211) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:13:49,580] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-02-24 15:13:49,580] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,580] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:13:49,606] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:13:49,718] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,718] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:13:49,723] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,723] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-02-24 15:13:49,723] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,723] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-02-24 15:13:49,728] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.151 seconds

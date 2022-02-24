@@ -1860,3 +1860,17 @@
 [2022-02-24 15:11:07,946] {logging_mixin.py:109} INFO - [2022-02-24 15:11:07,946] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:11:07,954] {logging_mixin.py:109} INFO - [2022-02-24 15:11:07,954] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-02-23 00:00:00+00:00
 [2022-02-24 15:11:07,958] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.041 seconds
+[2022-02-24 15:12:19,729] {processor.py:163} INFO - Started process (PID=56822) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:12:19,731] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-02-24 15:12:19,731] {logging_mixin.py:109} INFO - [2022-02-24 15:12:19,731] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:12:19,747] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:12:19,757] {logging_mixin.py:109} INFO - [2022-02-24 15:12:19,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:19,762] {logging_mixin.py:109} INFO - [2022-02-24 15:12:19,762] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:12:19,766] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.038 seconds
+[2022-02-24 15:13:31,763] {processor.py:163} INFO - Started process (PID=57135) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:13:31,764] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py for tasks to queue
+[2022-02-24 15:13:31,764] {logging_mixin.py:109} INFO - [2022-02-24 15:13:31,764] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:13:31,780] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_datetime_operator_2']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py
+[2022-02-24 15:13:31,792] {logging_mixin.py:109} INFO - [2022-02-24 15:13:31,792] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:31,797] {logging_mixin.py:109} INFO - [2022-02-24 15:13:31,797] {dag.py:2935} INFO - Setting next_dagrun for example_branch_datetime_operator_2 to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:13:31,801] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_datetime_operator.py took 0.038 seconds

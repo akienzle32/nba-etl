@@ -1944,3 +1944,24 @@
 [2022-02-24 15:10:16,169] {logging_mixin.py:109} INFO - [2022-02-24 15:10:16,169] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:10:16,176] {logging_mixin.py:109} INFO - [2022-02-24 15:10:16,176] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
 [2022-02-24 15:10:16,181] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.152 seconds
+[2022-02-24 15:11:27,979] {processor.py:163} INFO - Started process (PID=56566) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:11:27,979] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-02-24 15:11:27,980] {logging_mixin.py:109} INFO - [2022-02-24 15:11:27,980] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:11:28,014] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:11:28,145] {logging_mixin.py:109} INFO - [2022-02-24 15:11:28,145] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:11:28,151] {logging_mixin.py:109} INFO - [2022-02-24 15:11:28,151] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:11:28,158] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.180 seconds
+[2022-02-24 15:12:39,798] {processor.py:163} INFO - Started process (PID=56905) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:12:39,804] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-02-24 15:12:39,804] {logging_mixin.py:109} INFO - [2022-02-24 15:12:39,804] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:12:39,832] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:12:39,946] {logging_mixin.py:109} INFO - [2022-02-24 15:12:39,946] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:39,951] {logging_mixin.py:109} INFO - [2022-02-24 15:12:39,951] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:12:39,955] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.158 seconds
+[2022-02-24 15:13:51,740] {processor.py:163} INFO - Started process (PID=57227) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:13:51,741] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-02-24 15:13:51,741] {logging_mixin.py:109} INFO - [2022-02-24 15:13:51,741] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:13:51,784] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-02-24 15:13:51,896] {logging_mixin.py:109} INFO - [2022-02-24 15:13:51,895] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:51,900] {logging_mixin.py:109} INFO - [2022-02-24 15:13:51,900] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2022-02-24 15:13:51,905] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.165 seconds

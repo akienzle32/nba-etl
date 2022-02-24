@@ -1874,3 +1874,17 @@
 [2022-02-24 15:11:05,960] {logging_mixin.py:109} INFO - [2022-02-24 15:11:05,959] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:11:05,965] {logging_mixin.py:109} INFO - [2022-02-24 15:11:05,965] {dag.py:2935} INFO - Setting next_dagrun for example_weekday_branch_operator to 2022-02-23 00:00:00+00:00
 [2022-02-24 15:11:05,969] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.051 seconds
+[2022-02-24 15:12:17,665] {processor.py:163} INFO - Started process (PID=56810) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:12:17,666] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2022-02-24 15:12:17,667] {logging_mixin.py:109} INFO - [2022-02-24 15:12:17,667] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:12:17,683] {processor.py:654} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:12:17,693] {logging_mixin.py:109} INFO - [2022-02-24 15:12:17,693] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:17,698] {logging_mixin.py:109} INFO - [2022-02-24 15:12:17,698] {dag.py:2935} INFO - Setting next_dagrun for example_weekday_branch_operator to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:12:17,702] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.037 seconds
+[2022-02-24 15:13:29,773] {processor.py:163} INFO - Started process (PID=57118) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:13:29,774] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py for tasks to queue
+[2022-02-24 15:13:29,774] {logging_mixin.py:109} INFO - [2022-02-24 15:13:29,774] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:13:29,791] {processor.py:654} INFO - DAG(s) dict_keys(['example_weekday_branch_operator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py
+[2022-02-24 15:13:29,801] {logging_mixin.py:109} INFO - [2022-02-24 15:13:29,801] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:29,806] {logging_mixin.py:109} INFO - [2022-02-24 15:13:29,806] {dag.py:2935} INFO - Setting next_dagrun for example_weekday_branch_operator to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:13:29,811] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py took 0.039 seconds

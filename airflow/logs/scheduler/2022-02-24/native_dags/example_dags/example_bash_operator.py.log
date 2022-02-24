@@ -1867,3 +1867,17 @@
 [2022-02-24 15:11:10,017] {logging_mixin.py:109} INFO - [2022-02-24 15:11:10,017] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:11:10,022] {logging_mixin.py:109} INFO - [2022-02-24 15:11:10,022] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-02-23 00:00:00+00:00
 [2022-02-24 15:11:10,026] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.040 seconds
+[2022-02-24 15:12:21,726] {processor.py:163} INFO - Started process (PID=56839) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:12:21,727] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-02-24 15:12:21,727] {logging_mixin.py:109} INFO - [2022-02-24 15:12:21,727] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:12:21,744] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:12:21,755] {logging_mixin.py:109} INFO - [2022-02-24 15:12:21,755] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:12:21,760] {logging_mixin.py:109} INFO - [2022-02-24 15:12:21,760] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:12:21,764] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
+[2022-02-24 15:13:33,776] {processor.py:163} INFO - Started process (PID=57151) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:13:33,777] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-02-24 15:13:33,777] {logging_mixin.py:109} INFO - [2022-02-24 15:13:33,777] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:13:33,795] {processor.py:654} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-02-24 15:13:33,805] {logging_mixin.py:109} INFO - [2022-02-24 15:13:33,805] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:13:33,811] {logging_mixin.py:109} INFO - [2022-02-24 15:13:33,811] {dag.py:2935} INFO - Setting next_dagrun for example_bash_operator to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:13:33,815] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.039 seconds
