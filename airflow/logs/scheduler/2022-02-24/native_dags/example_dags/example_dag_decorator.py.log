@@ -1874,3 +1874,31 @@
 [2022-02-24 15:05:43,061] {logging_mixin.py:109} INFO - [2022-02-24 15:05:43,061] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:05:43,066] {logging_mixin.py:109} INFO - [2022-02-24 15:05:43,066] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
 [2022-02-24 15:05:43,070] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.150 seconds
+[2022-02-24 15:06:54,759] {processor.py:163} INFO - Started process (PID=55354) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:06:54,759] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-02-24 15:06:54,759] {logging_mixin.py:109} INFO - [2022-02-24 15:06:54,759] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:06:54,787] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:06:54,902] {logging_mixin.py:109} INFO - [2022-02-24 15:06:54,902] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:06:54,907] {logging_mixin.py:109} INFO - [2022-02-24 15:06:54,907] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-02-24 15:06:54,911] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.152 seconds
+[2022-02-24 15:08:06,501] {processor.py:163} INFO - Started process (PID=55687) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:08:06,502] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-02-24 15:08:06,502] {logging_mixin.py:109} INFO - [2022-02-24 15:08:06,502] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:08:06,530] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:08:06,641] {logging_mixin.py:109} INFO - [2022-02-24 15:08:06,641] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:08:06,647] {logging_mixin.py:109} INFO - [2022-02-24 15:08:06,646] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-02-24 15:08:06,652] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.151 seconds
+[2022-02-24 15:09:18,215] {processor.py:163} INFO - Started process (PID=56002) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:09:18,216] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-02-24 15:09:18,222] {logging_mixin.py:109} INFO - [2022-02-24 15:09:18,222] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:09:18,252] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:09:18,363] {logging_mixin.py:109} INFO - [2022-02-24 15:09:18,363] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:09:18,368] {logging_mixin.py:109} INFO - [2022-02-24 15:09:18,368] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-02-24 15:09:18,372] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.157 seconds
+[2022-02-24 15:10:29,918] {processor.py:163} INFO - Started process (PID=56329) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:10:29,919] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-02-24 15:10:29,919] {logging_mixin.py:109} INFO - [2022-02-24 15:10:29,919] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:10:29,951] {processor.py:654} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-02-24 15:10:30,070] {logging_mixin.py:109} INFO - [2022-02-24 15:10:30,070] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:10:30,074] {logging_mixin.py:109} INFO - [2022-02-24 15:10:30,074] {dag.py:2935} INFO - Setting next_dagrun for example_dag_decorator to None
+[2022-02-24 15:10:30,079] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.161 seconds

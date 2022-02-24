@@ -2166,3 +2166,35 @@
 [2022-02-24 15:06:12,662] {logging_mixin.py:109} INFO - [2022-02-24 15:06:12,662] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
 [2022-02-24 15:06:12,662] {logging_mixin.py:109} INFO - [2022-02-24 15:06:12,662] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
 [2022-02-24 15:06:12,666] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.040 seconds
+[2022-02-24 15:07:25,064] {processor.py:163} INFO - Started process (PID=55511) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:07:25,065] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-24 15:07:25,065] {logging_mixin.py:109} INFO - [2022-02-24 15:07:25,065] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:07:25,081] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:07:25,093] {logging_mixin.py:109} INFO - [2022-02-24 15:07:25,093] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:07:25,097] {logging_mixin.py:109} INFO - [2022-02-24 15:07:25,097] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-24 15:07:25,098] {logging_mixin.py:109} INFO - [2022-02-24 15:07:25,098] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-24 15:07:25,101] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.038 seconds
+[2022-02-24 15:08:36,475] {processor.py:163} INFO - Started process (PID=55821) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:08:36,475] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-24 15:08:36,475] {logging_mixin.py:109} INFO - [2022-02-24 15:08:36,475] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:08:36,492] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:08:36,503] {logging_mixin.py:109} INFO - [2022-02-24 15:08:36,503] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:08:36,508] {logging_mixin.py:109} INFO - [2022-02-24 15:08:36,508] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-24 15:08:36,508] {logging_mixin.py:109} INFO - [2022-02-24 15:08:36,508] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-24 15:08:36,512] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.037 seconds
+[2022-02-24 15:09:48,088] {processor.py:163} INFO - Started process (PID=56135) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:09:48,088] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-24 15:09:48,088] {logging_mixin.py:109} INFO - [2022-02-24 15:09:48,088] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:09:48,104] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:09:48,116] {logging_mixin.py:109} INFO - [2022-02-24 15:09:48,116] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:09:48,121] {logging_mixin.py:109} INFO - [2022-02-24 15:09:48,121] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-24 15:09:48,121] {logging_mixin.py:109} INFO - [2022-02-24 15:09:48,121] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-24 15:09:48,125] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.037 seconds
+[2022-02-24 15:10:59,944] {processor.py:163} INFO - Started process (PID=56428) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:10:59,945] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2022-02-24 15:10:59,946] {logging_mixin.py:109} INFO - [2022-02-24 15:10:59,946] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:10:59,962] {processor.py:654} INFO - DAG(s) dict_keys(['example_external_task_marker_parent', 'example_external_task_marker_child']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2022-02-24 15:10:59,973] {logging_mixin.py:109} INFO - [2022-02-24 15:10:59,973] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:10:59,977] {logging_mixin.py:109} INFO - [2022-02-24 15:10:59,977] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_child to None
+[2022-02-24 15:10:59,977] {logging_mixin.py:109} INFO - [2022-02-24 15:10:59,977] {dag.py:2935} INFO - Setting next_dagrun for example_external_task_marker_parent to None
+[2022-02-24 15:10:59,981] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.037 seconds

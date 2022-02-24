@@ -3659,3 +3659,59 @@
 [2022-02-24 15:06:25,316] {logging_mixin.py:109} INFO - [2022-02-24 15:06:25,316] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:06:25,322] {logging_mixin.py:109} INFO - [2022-02-24 15:06:25,322] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
 [2022-02-24 15:06:25,326] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.579 seconds
+[2022-02-24 15:07:00,799] {processor.py:163} INFO - Started process (PID=55396) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:00,799] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:07:00,799] {logging_mixin.py:109} INFO - [2022-02-24 15:07:00,799] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:01,244] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:01,343] {logging_mixin.py:109} INFO - [2022-02-24 15:07:01,343] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:07:01,348] {logging_mixin.py:109} INFO - [2022-02-24 15:07:01,348] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:07:01,353] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.555 seconds
+[2022-02-24 15:07:36,640] {processor.py:163} INFO - Started process (PID=55570) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:36,641] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:07:36,641] {logging_mixin.py:109} INFO - [2022-02-24 15:07:36,641] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:37,232] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:07:37,367] {logging_mixin.py:109} INFO - [2022-02-24 15:07:37,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:07:37,373] {logging_mixin.py:109} INFO - [2022-02-24 15:07:37,373] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:07:37,378] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.738 seconds
+[2022-02-24 15:08:12,369] {processor.py:163} INFO - Started process (PID=55719) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:12,370] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:08:12,370] {logging_mixin.py:109} INFO - [2022-02-24 15:08:12,370] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:12,794] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:12,897] {logging_mixin.py:109} INFO - [2022-02-24 15:08:12,896] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:08:12,901] {logging_mixin.py:109} INFO - [2022-02-24 15:08:12,901] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:08:12,907] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.538 seconds
+[2022-02-24 15:08:48,539] {processor.py:163} INFO - Started process (PID=55861) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:48,539] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:08:48,539] {logging_mixin.py:109} INFO - [2022-02-24 15:08:48,539] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:48,987] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:08:49,115] {logging_mixin.py:109} INFO - [2022-02-24 15:08:49,114] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:08:49,119] {logging_mixin.py:109} INFO - [2022-02-24 15:08:49,119] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:08:49,124] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.586 seconds
+[2022-02-24 15:09:24,240] {processor.py:163} INFO - Started process (PID=56031) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:09:24,241] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:09:24,241] {logging_mixin.py:109} INFO - [2022-02-24 15:09:24,241] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:09:24,697] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:09:24,796] {logging_mixin.py:109} INFO - [2022-02-24 15:09:24,796] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:09:24,801] {logging_mixin.py:109} INFO - [2022-02-24 15:09:24,801] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:09:24,806] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.567 seconds
+[2022-02-24 15:10:00,023] {processor.py:163} INFO - Started process (PID=56201) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:00,024] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:10:00,024] {logging_mixin.py:109} INFO - [2022-02-24 15:10:00,024] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:00,505] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:00,644] {logging_mixin.py:109} INFO - [2022-02-24 15:10:00,644] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:10:00,649] {logging_mixin.py:109} INFO - [2022-02-24 15:10:00,649] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:10:00,654] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.632 seconds
+[2022-02-24 15:10:35,927] {processor.py:163} INFO - Started process (PID=56350) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:35,927] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:10:35,927] {logging_mixin.py:109} INFO - [2022-02-24 15:10:35,927] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:36,345] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:10:36,448] {logging_mixin.py:109} INFO - [2022-02-24 15:10:36,448] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:10:36,454] {logging_mixin.py:109} INFO - [2022-02-24 15:10:36,454] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:10:36,459] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.532 seconds
+[2022-02-24 15:11:12,008] {processor.py:163} INFO - Started process (PID=56495) to work on /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:11:12,008] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py for tasks to queue
+[2022-02-24 15:11:12,009] {logging_mixin.py:109} INFO - [2022-02-24 15:11:12,009] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:11:12,481] {processor.py:654} INFO - DAG(s) dict_keys(['Etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py
+[2022-02-24 15:11:12,616] {logging_mixin.py:109} INFO - [2022-02-24 15:11:12,616] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:11:12,621] {logging_mixin.py:109} INFO - [2022-02-24 15:11:12,621] {dag.py:2935} INFO - Setting next_dagrun for Etl to 2022-02-24T00:00:00+00:00
+[2022-02-24 15:11:12,626] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/nba-etl/airflow/dags/nba-dag-etl.py took 0.619 seconds
