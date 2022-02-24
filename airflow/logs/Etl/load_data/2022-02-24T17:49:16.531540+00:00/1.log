@@ -1,0 +1,22 @@
+[2022-02-24 09:49:23,282] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Etl.load_data manual__2022-02-24T17:49:16.531540+00:00 [queued]>
+[2022-02-24 09:49:23,285] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: Etl.load_data manual__2022-02-24T17:49:16.531540+00:00 [queued]>
+[2022-02-24 09:49:23,285] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-24 09:49:23,285] {taskinstance.py:1239} INFO - Starting attempt 1 of 1
+[2022-02-24 09:49:23,285] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2022-02-24 09:49:23,290] {taskinstance.py:1259} INFO - Executing <Task(_PythonDecoratedOperator): load_data> on 2022-02-24 17:49:16.531540+00:00
+[2022-02-24 09:49:23,299] {standard_task_runner.py:52} INFO - Started process 13883 to run task
+[2022-02-24 09:49:23,307] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'Etl', 'load_data', 'manual__2022-02-24T17:49:16.531540+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/nba-dag-etl.py', '--cfg-path', '/var/folders/md/3zdr_czs2nggdyc8by93jjq80000gn/T/tmpcikwdngy', '--error-file', '/var/folders/md/3zdr_czs2nggdyc8by93jjq80000gn/T/tmp5ti_8tsn']
+[2022-02-24 09:49:23,308] {standard_task_runner.py:77} INFO - Job 6: Subtask load_data
+[2022-02-24 09:49:23,338] {logging_mixin.py:109} INFO - Running <TaskInstance: Etl.load_data manual__2022-02-24T17:49:16.531540+00:00 [running]> on host alecs-mbp-3.lan
+[2022-02-24 09:49:23,370] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=Etl
+AIRFLOW_CTX_TASK_ID=load_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-02-24T17:49:16.531540+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-02-24T17:49:16.531540+00:00
+[2022-02-24 09:49:23,372] {python.py:175} INFO - Done. Returned value was: -1
+[2022-02-24 09:49:23,379] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=Etl, task_id=load_data, execution_date=20220224T174916, start_date=20220224T174923, end_date=20220224T174923
+[2022-02-24 09:49:23,411] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-02-24 09:49:23,420] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check
