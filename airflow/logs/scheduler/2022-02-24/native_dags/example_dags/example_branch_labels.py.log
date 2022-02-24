@@ -1643,3 +1643,192 @@
 [2022-02-24 14:31:53,926] {logging_mixin.py:109} INFO - [2022-02-24 14:31:53,926] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 14:31:53,930] {logging_mixin.py:109} INFO - [2022-02-24 14:31:53,930] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
 [2022-02-24 14:31:53,934] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.035 seconds
+[2022-02-24 14:33:05,515] {processor.py:163} INFO - Started process (PID=47544) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:33:05,516] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:33:05,517] {logging_mixin.py:109} INFO - [2022-02-24 14:33:05,517] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:33:05,534] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:33:05,546] {logging_mixin.py:109} INFO - [2022-02-24 14:33:05,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:33:05,552] {logging_mixin.py:109} INFO - [2022-02-24 14:33:05,552] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:33:05,558] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.043 seconds
+[2022-02-24 14:34:17,447] {processor.py:163} INFO - Started process (PID=47843) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:34:17,448] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:34:17,448] {logging_mixin.py:109} INFO - [2022-02-24 14:34:17,448] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:34:17,465] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:34:17,475] {logging_mixin.py:109} INFO - [2022-02-24 14:34:17,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:34:17,480] {logging_mixin.py:109} INFO - [2022-02-24 14:34:17,480] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:34:17,484] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-02-24 14:35:29,530] {processor.py:163} INFO - Started process (PID=48141) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:35:29,531] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:35:29,531] {logging_mixin.py:109} INFO - [2022-02-24 14:35:29,531] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:35:29,548] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:35:29,559] {logging_mixin.py:109} INFO - [2022-02-24 14:35:29,559] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:35:29,565] {logging_mixin.py:109} INFO - [2022-02-24 14:35:29,565] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:35:29,568] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-02-24 14:36:41,428] {processor.py:163} INFO - Started process (PID=48445) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:36:41,429] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:36:41,429] {logging_mixin.py:109} INFO - [2022-02-24 14:36:41,429] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:36:41,460] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:36:41,477] {logging_mixin.py:109} INFO - [2022-02-24 14:36:41,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:36:41,512] {logging_mixin.py:109} INFO - [2022-02-24 14:36:41,511] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:36:41,524] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.096 seconds
+[2022-02-24 14:37:52,554] {processor.py:163} INFO - Started process (PID=48692) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:37:52,555] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:37:52,555] {logging_mixin.py:109} INFO - [2022-02-24 14:37:52,555] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:37:52,572] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:37:52,586] {logging_mixin.py:109} INFO - [2022-02-24 14:37:52,586] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:37:52,591] {logging_mixin.py:109} INFO - [2022-02-24 14:37:52,591] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:37:52,594] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-02-24 14:39:04,323] {processor.py:163} INFO - Started process (PID=48990) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:39:04,324] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:39:04,324] {logging_mixin.py:109} INFO - [2022-02-24 14:39:04,324] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:39:04,340] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:39:04,350] {logging_mixin.py:109} INFO - [2022-02-24 14:39:04,350] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:39:04,355] {logging_mixin.py:109} INFO - [2022-02-24 14:39:04,355] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:39:04,358] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-02-24 14:40:16,263] {processor.py:163} INFO - Started process (PID=49258) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:40:16,264] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:40:16,264] {logging_mixin.py:109} INFO - [2022-02-24 14:40:16,264] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:40:16,281] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:40:16,292] {logging_mixin.py:109} INFO - [2022-02-24 14:40:16,292] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:40:16,298] {logging_mixin.py:109} INFO - [2022-02-24 14:40:16,298] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:40:16,302] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-02-24 14:41:27,786] {processor.py:163} INFO - Started process (PID=49507) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:41:27,786] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:41:27,787] {logging_mixin.py:109} INFO - [2022-02-24 14:41:27,787] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:41:27,802] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:41:27,813] {logging_mixin.py:109} INFO - [2022-02-24 14:41:27,813] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:41:27,823] {logging_mixin.py:109} INFO - [2022-02-24 14:41:27,823] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:41:27,827] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.042 seconds
+[2022-02-24 14:42:38,815] {processor.py:163} INFO - Started process (PID=49748) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:42:38,815] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:42:38,815] {logging_mixin.py:109} INFO - [2022-02-24 14:42:38,815] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:42:38,832] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:42:38,843] {logging_mixin.py:109} INFO - [2022-02-24 14:42:38,843] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:42:38,848] {logging_mixin.py:109} INFO - [2022-02-24 14:42:38,848] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:42:38,852] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-02-24 14:43:46,314] {processor.py:163} INFO - Started process (PID=50029) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:43:46,314] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:43:46,315] {logging_mixin.py:109} INFO - [2022-02-24 14:43:46,315] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:43:46,331] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:43:46,342] {logging_mixin.py:109} INFO - [2022-02-24 14:43:46,341] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:43:46,347] {logging_mixin.py:109} INFO - [2022-02-24 14:43:46,347] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:43:46,352] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.038 seconds
+[2022-02-24 14:44:57,304] {processor.py:163} INFO - Started process (PID=50299) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:44:57,304] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:44:57,305] {logging_mixin.py:109} INFO - [2022-02-24 14:44:57,305] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:44:57,322] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:44:57,334] {logging_mixin.py:109} INFO - [2022-02-24 14:44:57,333] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:44:57,339] {logging_mixin.py:109} INFO - [2022-02-24 14:44:57,339] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:44:57,343] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-02-24 14:46:06,612] {processor.py:163} INFO - Started process (PID=50628) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:46:06,612] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:46:06,613] {logging_mixin.py:109} INFO - [2022-02-24 14:46:06,613] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:46:06,628] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:46:06,637] {logging_mixin.py:109} INFO - [2022-02-24 14:46:06,637] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:46:06,642] {logging_mixin.py:109} INFO - [2022-02-24 14:46:06,642] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:46:06,645] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.034 seconds
+[2022-02-24 14:47:17,912] {processor.py:163} INFO - Started process (PID=50949) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:47:17,913] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:47:17,914] {logging_mixin.py:109} INFO - [2022-02-24 14:47:17,914] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:47:17,931] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:47:17,943] {logging_mixin.py:109} INFO - [2022-02-24 14:47:17,942] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:47:17,948] {logging_mixin.py:109} INFO - [2022-02-24 14:47:17,948] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:47:17,952] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.040 seconds
+[2022-02-24 14:48:24,663] {processor.py:163} INFO - Started process (PID=51197) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:48:24,664] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:48:24,664] {logging_mixin.py:109} INFO - [2022-02-24 14:48:24,664] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:48:24,679] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:48:24,689] {logging_mixin.py:109} INFO - [2022-02-24 14:48:24,689] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:48:24,693] {logging_mixin.py:109} INFO - [2022-02-24 14:48:24,693] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:48:24,697] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.033 seconds
+[2022-02-24 14:49:33,925] {processor.py:163} INFO - Started process (PID=51410) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:49:33,925] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:49:33,927] {logging_mixin.py:109} INFO - [2022-02-24 14:49:33,927] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:49:33,943] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:49:33,954] {logging_mixin.py:109} INFO - [2022-02-24 14:49:33,953] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:49:33,959] {logging_mixin.py:109} INFO - [2022-02-24 14:49:33,959] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:49:33,963] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-02-24 14:50:44,828] {processor.py:163} INFO - Started process (PID=51652) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:50:44,828] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:50:44,829] {logging_mixin.py:109} INFO - [2022-02-24 14:50:44,828] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:50:44,845] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:50:44,856] {logging_mixin.py:109} INFO - [2022-02-24 14:50:44,856] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:50:44,861] {logging_mixin.py:109} INFO - [2022-02-24 14:50:44,861] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:50:44,865] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-02-24 14:51:56,484] {processor.py:163} INFO - Started process (PID=51913) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:51:56,485] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:51:56,485] {logging_mixin.py:109} INFO - [2022-02-24 14:51:56,485] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:51:56,502] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:51:56,512] {logging_mixin.py:109} INFO - [2022-02-24 14:51:56,512] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:51:56,517] {logging_mixin.py:109} INFO - [2022-02-24 14:51:56,516] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:51:56,520] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-02-24 14:53:07,573] {processor.py:163} INFO - Started process (PID=52153) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:53:07,574] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:53:07,574] {logging_mixin.py:109} INFO - [2022-02-24 14:53:07,574] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:53:07,590] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:53:07,600] {logging_mixin.py:109} INFO - [2022-02-24 14:53:07,600] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:53:07,605] {logging_mixin.py:109} INFO - [2022-02-24 14:53:07,605] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:53:07,609] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-02-24 14:54:17,595] {processor.py:163} INFO - Started process (PID=52411) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:54:17,596] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:54:17,596] {logging_mixin.py:109} INFO - [2022-02-24 14:54:17,596] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:54:17,618] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:54:17,630] {logging_mixin.py:109} INFO - [2022-02-24 14:54:17,630] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:54:17,637] {logging_mixin.py:109} INFO - [2022-02-24 14:54:17,637] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:54:17,640] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.045 seconds
+[2022-02-24 14:55:29,233] {processor.py:163} INFO - Started process (PID=52654) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:55:29,234] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:55:29,235] {logging_mixin.py:109} INFO - [2022-02-24 14:55:29,235] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:55:29,251] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:55:29,261] {logging_mixin.py:109} INFO - [2022-02-24 14:55:29,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:55:29,266] {logging_mixin.py:109} INFO - [2022-02-24 14:55:29,266] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:55:29,270] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-02-24 14:56:41,577] {processor.py:163} INFO - Started process (PID=52917) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:56:41,578] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:56:41,578] {logging_mixin.py:109} INFO - [2022-02-24 14:56:41,578] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:56:41,594] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:56:41,605] {logging_mixin.py:109} INFO - [2022-02-24 14:56:41,605] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:56:41,610] {logging_mixin.py:109} INFO - [2022-02-24 14:56:41,610] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:56:41,613] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.037 seconds
+[2022-02-24 14:57:53,587] {processor.py:163} INFO - Started process (PID=53174) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:57:53,587] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:57:53,587] {logging_mixin.py:109} INFO - [2022-02-24 14:57:53,587] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:57:53,604] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:57:53,616] {logging_mixin.py:109} INFO - [2022-02-24 14:57:53,616] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:57:53,622] {logging_mixin.py:109} INFO - [2022-02-24 14:57:53,622] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:57:53,628] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.041 seconds
+[2022-02-24 14:59:04,405] {processor.py:163} INFO - Started process (PID=53408) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:59:04,406] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 14:59:04,406] {logging_mixin.py:109} INFO - [2022-02-24 14:59:04,406] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:59:04,428] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 14:59:04,439] {logging_mixin.py:109} INFO - [2022-02-24 14:59:04,439] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:59:04,444] {logging_mixin.py:109} INFO - [2022-02-24 14:59:04,444] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 14:59:04,447] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.043 seconds
+[2022-02-24 15:00:16,788] {processor.py:163} INFO - Started process (PID=53649) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:00:16,789] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 15:00:16,789] {logging_mixin.py:109} INFO - [2022-02-24 15:00:16,789] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:00:16,812] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:00:16,826] {logging_mixin.py:109} INFO - [2022-02-24 15:00:16,826] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:00:16,834] {logging_mixin.py:109} INFO - [2022-02-24 15:00:16,834] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:00:16,839] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.052 seconds
+[2022-02-24 15:01:29,497] {processor.py:163} INFO - Started process (PID=53927) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:01:29,497] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 15:01:29,498] {logging_mixin.py:109} INFO - [2022-02-24 15:01:29,498] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:01:29,513] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:01:29,524] {logging_mixin.py:109} INFO - [2022-02-24 15:01:29,524] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:01:29,529] {logging_mixin.py:109} INFO - [2022-02-24 15:01:29,529] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:01:29,533] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.036 seconds
+[2022-02-24 15:02:41,459] {processor.py:163} INFO - Started process (PID=54178) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:02:41,459] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 15:02:41,459] {logging_mixin.py:109} INFO - [2022-02-24 15:02:41,459] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:02:41,476] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:02:41,486] {logging_mixin.py:109} INFO - [2022-02-24 15:02:41,486] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:02:41,494] {logging_mixin.py:109} INFO - [2022-02-24 15:02:41,494] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:02:41,498] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.039 seconds
+[2022-02-24 15:03:53,439] {processor.py:163} INFO - Started process (PID=54456) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:03:53,440] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py for tasks to queue
+[2022-02-24 15:03:53,440] {logging_mixin.py:109} INFO - [2022-02-24 15:03:53,440] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:03:53,460] {processor.py:654} INFO - DAG(s) dict_keys(['example_branch_labels']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py
+[2022-02-24 15:03:53,472] {logging_mixin.py:109} INFO - [2022-02-24 15:03:53,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:03:53,478] {logging_mixin.py:109} INFO - [2022-02-24 15:03:53,477] {dag.py:2935} INFO - Setting next_dagrun for example_branch_labels to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:03:53,482] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_branch_labels.py took 0.043 seconds

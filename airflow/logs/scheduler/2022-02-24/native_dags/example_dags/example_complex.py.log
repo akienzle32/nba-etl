@@ -1657,3 +1657,192 @@
 [2022-02-24 14:31:22,195] {logging_mixin.py:109} INFO - [2022-02-24 14:31:22,195] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 14:31:22,199] {logging_mixin.py:109} INFO - [2022-02-24 14:31:22,199] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
 [2022-02-24 14:31:22,203] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-02-24 14:32:33,668] {processor.py:163} INFO - Started process (PID=47392) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:32:33,669] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:32:33,669] {logging_mixin.py:109} INFO - [2022-02-24 14:32:33,669] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:32:33,688] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:32:33,700] {logging_mixin.py:109} INFO - [2022-02-24 14:32:33,700] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:32:33,705] {logging_mixin.py:109} INFO - [2022-02-24 14:32:33,705] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:32:33,709] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-02-24 14:33:45,262] {processor.py:163} INFO - Started process (PID=47703) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:33:45,263] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:33:45,263] {logging_mixin.py:109} INFO - [2022-02-24 14:33:45,263] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:33:45,283] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:33:45,296] {logging_mixin.py:109} INFO - [2022-02-24 14:33:45,295] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:33:45,300] {logging_mixin.py:109} INFO - [2022-02-24 14:33:45,300] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:33:45,304] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:34:57,333] {processor.py:163} INFO - Started process (PID=47975) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:34:57,334] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:34:57,335] {logging_mixin.py:109} INFO - [2022-02-24 14:34:57,335] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:34:57,355] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:34:57,367] {logging_mixin.py:109} INFO - [2022-02-24 14:34:57,367] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:34:57,371] {logging_mixin.py:109} INFO - [2022-02-24 14:34:57,371] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:34:57,375] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-02-24 14:36:09,523] {processor.py:163} INFO - Started process (PID=48332) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:36:09,524] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:36:09,524] {logging_mixin.py:109} INFO - [2022-02-24 14:36:09,524] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:36:09,544] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:36:09,557] {logging_mixin.py:109} INFO - [2022-02-24 14:36:09,557] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:36:09,562] {logging_mixin.py:109} INFO - [2022-02-24 14:36:09,562] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:36:09,566] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:37:21,219] {processor.py:163} INFO - Started process (PID=48587) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:37:21,221] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:37:21,221] {logging_mixin.py:109} INFO - [2022-02-24 14:37:21,221] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:37:21,240] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:37:21,252] {logging_mixin.py:109} INFO - [2022-02-24 14:37:21,252] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:37:21,256] {logging_mixin.py:109} INFO - [2022-02-24 14:37:21,256] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:37:21,260] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-02-24 14:38:32,516] {processor.py:163} INFO - Started process (PID=48867) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:38:32,517] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:38:32,517] {logging_mixin.py:109} INFO - [2022-02-24 14:38:32,517] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:38:32,539] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:38:32,550] {logging_mixin.py:109} INFO - [2022-02-24 14:38:32,550] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:38:32,554] {logging_mixin.py:109} INFO - [2022-02-24 14:38:32,554] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:38:32,558] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-02-24 14:39:44,342] {processor.py:163} INFO - Started process (PID=49132) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:39:44,343] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:39:44,344] {logging_mixin.py:109} INFO - [2022-02-24 14:39:44,344] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:39:44,363] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:39:44,377] {logging_mixin.py:109} INFO - [2022-02-24 14:39:44,377] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:39:44,382] {logging_mixin.py:109} INFO - [2022-02-24 14:39:44,382] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:39:44,385] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:40:56,050] {processor.py:163} INFO - Started process (PID=49388) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:40:56,050] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:40:56,051] {logging_mixin.py:109} INFO - [2022-02-24 14:40:56,051] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:40:56,069] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:40:56,081] {logging_mixin.py:109} INFO - [2022-02-24 14:40:56,081] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:40:56,086] {logging_mixin.py:109} INFO - [2022-02-24 14:40:56,086] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:40:56,090] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.040 seconds
+[2022-02-24 14:42:07,562] {processor.py:163} INFO - Started process (PID=49636) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:42:07,562] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:42:07,563] {logging_mixin.py:109} INFO - [2022-02-24 14:42:07,563] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:42:07,584] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:42:07,607] {logging_mixin.py:109} INFO - [2022-02-24 14:42:07,606] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:42:07,612] {logging_mixin.py:109} INFO - [2022-02-24 14:42:07,612] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:42:07,686] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.125 seconds
+[2022-02-24 14:43:16,586] {processor.py:163} INFO - Started process (PID=49893) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:43:16,587] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:43:16,587] {logging_mixin.py:109} INFO - [2022-02-24 14:43:16,587] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:43:16,607] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:43:16,620] {logging_mixin.py:109} INFO - [2022-02-24 14:43:16,620] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:43:16,625] {logging_mixin.py:109} INFO - [2022-02-24 14:43:16,625] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:43:16,630] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2022-02-24 14:44:26,154] {processor.py:163} INFO - Started process (PID=50155) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:44:26,155] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:44:26,155] {logging_mixin.py:109} INFO - [2022-02-24 14:44:26,155] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:44:26,176] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:44:26,189] {logging_mixin.py:109} INFO - [2022-02-24 14:44:26,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:44:26,193] {logging_mixin.py:109} INFO - [2022-02-24 14:44:26,193] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:44:26,197] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:45:35,082] {processor.py:163} INFO - Started process (PID=50483) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:45:35,083] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:45:35,083] {logging_mixin.py:109} INFO - [2022-02-24 14:45:35,083] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:45:35,101] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:45:35,115] {logging_mixin.py:109} INFO - [2022-02-24 14:45:35,114] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:45:35,120] {logging_mixin.py:109} INFO - [2022-02-24 14:45:35,119] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:45:35,126] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.044 seconds
+[2022-02-24 14:46:46,437] {processor.py:163} INFO - Started process (PID=50824) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:46:46,437] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:46:46,438] {logging_mixin.py:109} INFO - [2022-02-24 14:46:46,438] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:46:46,460] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:46:46,473] {logging_mixin.py:109} INFO - [2022-02-24 14:46:46,472] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:46:46,477] {logging_mixin.py:109} INFO - [2022-02-24 14:46:46,477] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:46:46,481] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.045 seconds
+[2022-02-24 14:47:56,541] {processor.py:163} INFO - Started process (PID=51098) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:47:56,542] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:47:56,543] {logging_mixin.py:109} INFO - [2022-02-24 14:47:56,543] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:47:56,563] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:47:56,578] {logging_mixin.py:109} INFO - [2022-02-24 14:47:56,578] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:47:56,583] {logging_mixin.py:109} INFO - [2022-02-24 14:47:56,583] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:47:56,587] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds
+[2022-02-24 14:49:02,475] {processor.py:163} INFO - Started process (PID=51310) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:49:02,476] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:49:02,476] {logging_mixin.py:109} INFO - [2022-02-24 14:49:02,476] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:49:02,495] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:49:02,506] {logging_mixin.py:109} INFO - [2022-02-24 14:49:02,506] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:49:02,510] {logging_mixin.py:109} INFO - [2022-02-24 14:49:02,510] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:49:02,514] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-02-24 14:50:13,446] {processor.py:163} INFO - Started process (PID=51536) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:50:13,447] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:50:13,447] {logging_mixin.py:109} INFO - [2022-02-24 14:50:13,447] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:50:13,466] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:50:13,480] {logging_mixin.py:109} INFO - [2022-02-24 14:50:13,480] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:50:13,484] {logging_mixin.py:109} INFO - [2022-02-24 14:50:13,484] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:50:13,488] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:51:24,505] {processor.py:163} INFO - Started process (PID=51794) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:51:24,505] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:51:24,505] {logging_mixin.py:109} INFO - [2022-02-24 14:51:24,505] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:51:24,524] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:51:24,535] {logging_mixin.py:109} INFO - [2022-02-24 14:51:24,535] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:51:24,540] {logging_mixin.py:109} INFO - [2022-02-24 14:51:24,540] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:51:24,543] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-02-24 14:52:36,388] {processor.py:163} INFO - Started process (PID=52046) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:52:36,390] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:52:36,390] {logging_mixin.py:109} INFO - [2022-02-24 14:52:36,390] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:52:36,409] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:52:36,420] {logging_mixin.py:109} INFO - [2022-02-24 14:52:36,420] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:52:36,425] {logging_mixin.py:109} INFO - [2022-02-24 14:52:36,425] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:52:36,429] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-02-24 14:53:46,401] {processor.py:163} INFO - Started process (PID=52288) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:53:46,402] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:53:46,402] {logging_mixin.py:109} INFO - [2022-02-24 14:53:46,402] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:53:46,421] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:53:46,434] {logging_mixin.py:109} INFO - [2022-02-24 14:53:46,434] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:53:46,439] {logging_mixin.py:109} INFO - [2022-02-24 14:53:46,439] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:53:46,442] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-02-24 14:54:57,619] {processor.py:163} INFO - Started process (PID=52546) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:54:57,620] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:54:57,620] {logging_mixin.py:109} INFO - [2022-02-24 14:54:57,620] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:54:57,639] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:54:57,650] {logging_mixin.py:109} INFO - [2022-02-24 14:54:57,650] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:54:57,654] {logging_mixin.py:109} INFO - [2022-02-24 14:54:57,654] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:54:57,658] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-02-24 14:56:09,653] {processor.py:163} INFO - Started process (PID=52801) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:56:09,654] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:56:09,654] {logging_mixin.py:109} INFO - [2022-02-24 14:56:09,654] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:56:09,674] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:56:09,685] {logging_mixin.py:109} INFO - [2022-02-24 14:56:09,685] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:56:09,690] {logging_mixin.py:109} INFO - [2022-02-24 14:56:09,690] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:56:09,694] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.041 seconds
+[2022-02-24 14:57:21,764] {processor.py:163} INFO - Started process (PID=53060) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:57:21,765] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:57:21,766] {logging_mixin.py:109} INFO - [2022-02-24 14:57:21,766] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:57:21,786] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:57:21,798] {logging_mixin.py:109} INFO - [2022-02-24 14:57:21,798] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:57:21,803] {logging_mixin.py:109} INFO - [2022-02-24 14:57:21,803] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:57:21,806] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.042 seconds
+[2022-02-24 14:58:32,731] {processor.py:163} INFO - Started process (PID=53310) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:58:32,732] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:58:32,734] {logging_mixin.py:109} INFO - [2022-02-24 14:58:32,734] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:58:32,753] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:58:32,765] {logging_mixin.py:109} INFO - [2022-02-24 14:58:32,765] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:58:32,769] {logging_mixin.py:109} INFO - [2022-02-24 14:58:32,769] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:58:32,773] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 14:59:44,477] {processor.py:163} INFO - Started process (PID=53536) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:59:44,478] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 14:59:44,478] {logging_mixin.py:109} INFO - [2022-02-24 14:59:44,478] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:59:44,497] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 14:59:44,510] {logging_mixin.py:109} INFO - [2022-02-24 14:59:44,510] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:59:44,515] {logging_mixin.py:109} INFO - [2022-02-24 14:59:44,515] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 14:59:44,519] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 15:00:58,466] {processor.py:163} INFO - Started process (PID=53812) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:00:58,467] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 15:00:58,467] {logging_mixin.py:109} INFO - [2022-02-24 15:00:58,467] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:00:58,486] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:00:58,497] {logging_mixin.py:109} INFO - [2022-02-24 15:00:58,497] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:00:58,501] {logging_mixin.py:109} INFO - [2022-02-24 15:00:58,501] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 15:00:58,505] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2022-02-24 15:02:09,372] {processor.py:163} INFO - Started process (PID=54066) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:02:09,372] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 15:02:09,374] {logging_mixin.py:109} INFO - [2022-02-24 15:02:09,374] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:02:09,394] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:02:09,407] {logging_mixin.py:109} INFO - [2022-02-24 15:02:09,407] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:02:09,411] {logging_mixin.py:109} INFO - [2022-02-24 15:02:09,411] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 15:02:09,415] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.043 seconds
+[2022-02-24 15:03:21,882] {processor.py:163} INFO - Started process (PID=54345) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:03:21,883] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-02-24 15:03:21,884] {logging_mixin.py:109} INFO - [2022-02-24 15:03:21,884] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:03:21,902] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-02-24 15:03:21,919] {logging_mixin.py:109} INFO - [2022-02-24 15:03:21,919] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:03:21,923] {logging_mixin.py:109} INFO - [2022-02-24 15:03:21,923] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2022-02-24 15:03:21,928] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.046 seconds

@@ -60,8 +60,9 @@ def Etl():
     def load_data():
         try:
             load_dotenv()
+            USERNAME = os.getenv('DB_USERNAME')
             PASSWORD = os.getenv('DB_PASSWORD')
-            engine = create_engine(f'postgresql://postgres:{PASSWORD}@localhost:5432/nba')
+            engine = create_engine(f'postgresql://{USERNAME}:{PASSWORD}@localhost:5432/nba')
             dataframe.to_sql('per_game', con=engine, if_exists='replace')
             return 0
         except Exception as e:

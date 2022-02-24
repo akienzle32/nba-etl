@@ -1720,3 +1720,199 @@
 [2022-02-24 14:30:58,099] {logging_mixin.py:109} INFO - [2022-02-24 14:30:58,099] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 14:30:58,103] {logging_mixin.py:109} INFO - [2022-02-24 14:30:58,103] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
 [2022-02-24 14:30:58,107] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.172 seconds
+[2022-02-24 14:32:09,458] {processor.py:163} INFO - Started process (PID=47288) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:32:09,459] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:32:09,459] {logging_mixin.py:109} INFO - [2022-02-24 14:32:09,459] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:32:09,486] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:32:09,630] {logging_mixin.py:109} INFO - [2022-02-24 14:32:09,630] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:32:09,635] {logging_mixin.py:109} INFO - [2022-02-24 14:32:09,635] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:32:09,640] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.182 seconds
+[2022-02-24 14:33:21,240] {processor.py:163} INFO - Started process (PID=47616) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:33:21,241] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:33:21,241] {logging_mixin.py:109} INFO - [2022-02-24 14:33:21,241] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:33:21,266] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:33:21,402] {logging_mixin.py:109} INFO - [2022-02-24 14:33:21,402] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:33:21,407] {logging_mixin.py:109} INFO - [2022-02-24 14:33:21,407] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:33:21,411] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.172 seconds
+[2022-02-24 14:34:33,295] {processor.py:163} INFO - Started process (PID=47899) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:34:33,295] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:34:33,296] {logging_mixin.py:109} INFO - [2022-02-24 14:34:33,296] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:34:33,320] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:34:33,443] {logging_mixin.py:109} INFO - [2022-02-24 14:34:33,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:34:33,448] {logging_mixin.py:109} INFO - [2022-02-24 14:34:33,448] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:34:33,452] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.158 seconds
+[2022-02-24 14:35:45,344] {processor.py:163} INFO - Started process (PID=48215) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:35:45,345] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:35:45,345] {logging_mixin.py:109} INFO - [2022-02-24 14:35:45,345] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:35:45,372] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:35:45,508] {logging_mixin.py:109} INFO - [2022-02-24 14:35:45,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:35:45,512] {logging_mixin.py:109} INFO - [2022-02-24 14:35:45,512] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:35:45,516] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.172 seconds
+[2022-02-24 14:36:57,246] {processor.py:163} INFO - Started process (PID=48501) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:36:57,249] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:36:57,250] {logging_mixin.py:109} INFO - [2022-02-24 14:36:57,249] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:36:57,278] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:36:57,410] {logging_mixin.py:109} INFO - [2022-02-24 14:36:57,410] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:36:57,415] {logging_mixin.py:109} INFO - [2022-02-24 14:36:57,415] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:36:57,419] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.173 seconds
+[2022-02-24 14:38:08,582] {processor.py:163} INFO - Started process (PID=48746) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:38:08,582] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:38:08,583] {logging_mixin.py:109} INFO - [2022-02-24 14:38:08,582] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:38:08,611] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:38:08,757] {logging_mixin.py:109} INFO - [2022-02-24 14:38:08,757] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:38:08,762] {logging_mixin.py:109} INFO - [2022-02-24 14:38:08,762] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:38:08,767] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.185 seconds
+[2022-02-24 14:39:20,447] {processor.py:163} INFO - Started process (PID=49038) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:39:20,448] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:39:20,448] {logging_mixin.py:109} INFO - [2022-02-24 14:39:20,448] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:39:20,492] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:39:20,689] {logging_mixin.py:109} INFO - [2022-02-24 14:39:20,688] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:39:20,694] {logging_mixin.py:109} INFO - [2022-02-24 14:39:20,694] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:39:20,699] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.252 seconds
+[2022-02-24 14:40:31,943] {processor.py:163} INFO - Started process (PID=49312) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:40:31,944] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:40:31,944] {logging_mixin.py:109} INFO - [2022-02-24 14:40:31,944] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:40:31,969] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:40:32,101] {logging_mixin.py:109} INFO - [2022-02-24 14:40:32,101] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:40:32,106] {logging_mixin.py:109} INFO - [2022-02-24 14:40:32,106] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:40:32,110] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.167 seconds
+[2022-02-24 14:41:43,703] {processor.py:163} INFO - Started process (PID=49558) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:41:43,703] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:41:43,704] {logging_mixin.py:109} INFO - [2022-02-24 14:41:43,704] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:41:43,733] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:41:43,881] {logging_mixin.py:109} INFO - [2022-02-24 14:41:43,881] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:41:43,886] {logging_mixin.py:109} INFO - [2022-02-24 14:41:43,886] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:41:43,890] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.188 seconds
+[2022-02-24 14:42:53,452] {processor.py:163} INFO - Started process (PID=49805) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:42:53,453] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:42:53,453] {logging_mixin.py:109} INFO - [2022-02-24 14:42:53,453] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:42:53,477] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:42:53,576] {logging_mixin.py:109} INFO - [2022-02-24 14:42:53,576] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:42:53,580] {logging_mixin.py:109} INFO - [2022-02-24 14:42:53,580] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:42:53,584] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.133 seconds
+[2022-02-24 14:44:02,332] {processor.py:163} INFO - Started process (PID=50076) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:44:02,334] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:44:02,334] {logging_mixin.py:109} INFO - [2022-02-24 14:44:02,334] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:44:02,357] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:44:02,457] {logging_mixin.py:109} INFO - [2022-02-24 14:44:02,457] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:44:02,461] {logging_mixin.py:109} INFO - [2022-02-24 14:44:02,461] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:44:02,465] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.133 seconds
+[2022-02-24 14:45:11,495] {processor.py:163} INFO - Started process (PID=50363) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:45:11,496] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:45:11,496] {logging_mixin.py:109} INFO - [2022-02-24 14:45:11,496] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:45:11,521] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:45:11,643] {logging_mixin.py:109} INFO - [2022-02-24 14:45:11,643] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:45:11,647] {logging_mixin.py:109} INFO - [2022-02-24 14:45:11,647] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:45:11,651] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.157 seconds
+[2022-02-24 14:46:22,216] {processor.py:163} INFO - Started process (PID=50702) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:46:22,216] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:46:22,217] {logging_mixin.py:109} INFO - [2022-02-24 14:46:22,216] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:46:22,243] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:46:22,390] {logging_mixin.py:109} INFO - [2022-02-24 14:46:22,389] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:46:22,394] {logging_mixin.py:109} INFO - [2022-02-24 14:46:22,394] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:46:22,398] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.183 seconds
+[2022-02-24 14:47:33,646] {processor.py:163} INFO - Started process (PID=51021) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:47:33,646] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:47:33,646] {logging_mixin.py:109} INFO - [2022-02-24 14:47:33,646] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:47:33,671] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:47:33,805] {logging_mixin.py:109} INFO - [2022-02-24 14:47:33,805] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:47:33,810] {logging_mixin.py:109} INFO - [2022-02-24 14:47:33,810] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:47:33,814] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.168 seconds
+[2022-02-24 14:48:38,629] {processor.py:163} INFO - Started process (PID=51239) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:48:38,630] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:48:38,630] {logging_mixin.py:109} INFO - [2022-02-24 14:48:38,630] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:48:38,657] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:48:38,807] {logging_mixin.py:109} INFO - [2022-02-24 14:48:38,807] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:48:38,813] {logging_mixin.py:109} INFO - [2022-02-24 14:48:38,812] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:48:38,820] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.191 seconds
+[2022-02-24 14:49:49,715] {processor.py:163} INFO - Started process (PID=51463) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:49:49,715] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:49:49,715] {logging_mixin.py:109} INFO - [2022-02-24 14:49:49,715] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:49:49,740] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:49:49,867] {logging_mixin.py:109} INFO - [2022-02-24 14:49:49,867] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:49:49,872] {logging_mixin.py:109} INFO - [2022-02-24 14:49:49,872] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:49:49,876] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.162 seconds
+[2022-02-24 14:51:00,571] {processor.py:163} INFO - Started process (PID=51697) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:51:00,572] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:51:00,572] {logging_mixin.py:109} INFO - [2022-02-24 14:51:00,572] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:51:00,597] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:51:00,723] {logging_mixin.py:109} INFO - [2022-02-24 14:51:00,723] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:51:00,728] {logging_mixin.py:109} INFO - [2022-02-24 14:51:00,728] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:51:00,733] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.162 seconds
+[2022-02-24 14:52:12,253] {processor.py:163} INFO - Started process (PID=51959) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:52:12,254] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:52:12,254] {logging_mixin.py:109} INFO - [2022-02-24 14:52:12,254] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:52:12,280] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:52:12,431] {logging_mixin.py:109} INFO - [2022-02-24 14:52:12,431] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:52:12,436] {logging_mixin.py:109} INFO - [2022-02-24 14:52:12,436] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:52:12,440] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.187 seconds
+[2022-02-24 14:53:21,275] {processor.py:163} INFO - Started process (PID=52192) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:53:21,276] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:53:21,276] {logging_mixin.py:109} INFO - [2022-02-24 14:53:21,276] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:53:21,300] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:53:21,403] {logging_mixin.py:109} INFO - [2022-02-24 14:53:21,403] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:53:21,409] {logging_mixin.py:109} INFO - [2022-02-24 14:53:21,409] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:53:21,415] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.140 seconds
+[2022-02-24 14:54:33,839] {processor.py:163} INFO - Started process (PID=52462) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:54:33,840] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:54:33,840] {logging_mixin.py:109} INFO - [2022-02-24 14:54:33,840] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:54:33,865] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:54:34,006] {logging_mixin.py:109} INFO - [2022-02-24 14:54:34,006] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:54:34,012] {logging_mixin.py:109} INFO - [2022-02-24 14:54:34,012] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:54:34,017] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.178 seconds
+[2022-02-24 14:55:45,468] {processor.py:163} INFO - Started process (PID=52717) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:55:45,469] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:55:45,471] {logging_mixin.py:109} INFO - [2022-02-24 14:55:45,471] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:55:45,512] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:55:45,642] {logging_mixin.py:109} INFO - [2022-02-24 14:55:45,642] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:55:45,647] {logging_mixin.py:109} INFO - [2022-02-24 14:55:45,647] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:55:45,652] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.184 seconds
+[2022-02-24 14:56:57,313] {processor.py:163} INFO - Started process (PID=52980) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:56:57,314] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:56:57,314] {logging_mixin.py:109} INFO - [2022-02-24 14:56:57,314] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:56:57,344] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:56:57,489] {logging_mixin.py:109} INFO - [2022-02-24 14:56:57,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:56:57,494] {logging_mixin.py:109} INFO - [2022-02-24 14:56:57,494] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:56:57,499] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.186 seconds
+[2022-02-24 14:58:08,808] {processor.py:163} INFO - Started process (PID=53234) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:58:08,809] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:58:08,809] {logging_mixin.py:109} INFO - [2022-02-24 14:58:08,809] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:58:08,836] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:58:08,959] {logging_mixin.py:109} INFO - [2022-02-24 14:58:08,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:58:08,964] {logging_mixin.py:109} INFO - [2022-02-24 14:58:08,964] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:58:08,968] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.160 seconds
+[2022-02-24 14:59:20,245] {processor.py:163} INFO - Started process (PID=53462) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:59:20,246] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 14:59:20,246] {logging_mixin.py:109} INFO - [2022-02-24 14:59:20,246] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:59:20,280] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 14:59:20,404] {logging_mixin.py:109} INFO - [2022-02-24 14:59:20,404] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 14:59:20,409] {logging_mixin.py:109} INFO - [2022-02-24 14:59:20,409] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 14:59:20,414] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.169 seconds
+[2022-02-24 15:00:34,519] {processor.py:163} INFO - Started process (PID=53725) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:00:34,520] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 15:00:34,520] {logging_mixin.py:109} INFO - [2022-02-24 15:00:34,520] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:00:34,544] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:00:34,673] {logging_mixin.py:109} INFO - [2022-02-24 15:00:34,673] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:00:34,677] {logging_mixin.py:109} INFO - [2022-02-24 15:00:34,677] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 15:00:34,681] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.163 seconds
+[2022-02-24 15:01:45,318] {processor.py:163} INFO - Started process (PID=53970) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:01:45,319] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 15:01:45,319] {logging_mixin.py:109} INFO - [2022-02-24 15:01:45,319] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:01:45,368] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:01:45,516] {logging_mixin.py:109} INFO - [2022-02-24 15:01:45,516] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:01:45,521] {logging_mixin.py:109} INFO - [2022-02-24 15:01:45,521] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 15:01:45,530] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.213 seconds
+[2022-02-24 15:02:57,390] {processor.py:163} INFO - Started process (PID=54238) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:02:57,390] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 15:02:57,391] {logging_mixin.py:109} INFO - [2022-02-24 15:02:57,391] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:02:57,417] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:02:57,566] {logging_mixin.py:109} INFO - [2022-02-24 15:02:57,566] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:02:57,572] {logging_mixin.py:109} INFO - [2022-02-24 15:02:57,572] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 15:02:57,579] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.189 seconds
+[2022-02-24 15:04:11,695] {processor.py:163} INFO - Started process (PID=54529) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:04:11,696] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-02-24 15:04:11,696] {logging_mixin.py:109} INFO - [2022-02-24 15:04:11,696] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:04:11,721] {processor.py:654} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-02-24 15:04:11,837] {logging_mixin.py:109} INFO - [2022-02-24 15:04:11,837] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:04:11,842] {logging_mixin.py:109} INFO - [2022-02-24 15:04:11,842] {dag.py:2935} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None
+[2022-02-24 15:04:11,847] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.152 seconds
