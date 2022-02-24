@@ -1958,3 +1958,10 @@
 [2022-02-24 15:14:30,077] {logging_mixin.py:109} INFO - [2022-02-24 15:14:30,077] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:14:30,082] {logging_mixin.py:109} INFO - [2022-02-24 15:14:30,082] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-02-23 00:00:00+00:00
 [2022-02-24 15:14:30,086] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.045 seconds
+[2022-02-24 15:15:41,541] {processor.py:163} INFO - Started process (PID=57766) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-02-24 15:15:41,542] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py for tasks to queue
+[2022-02-24 15:15:41,542] {logging_mixin.py:109} INFO - [2022-02-24 15:15:41,542] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-02-24 15:15:41,567] {processor.py:654} INFO - DAG(s) dict_keys(['example_nested_branch_dag']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py
+[2022-02-24 15:15:41,577] {logging_mixin.py:109} INFO - [2022-02-24 15:15:41,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:15:41,582] {logging_mixin.py:109} INFO - [2022-02-24 15:15:41,582] {dag.py:2935} INFO - Setting next_dagrun for example_nested_branch_dag to 2022-02-23 00:00:00+00:00
+[2022-02-24 15:15:41,587] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_nested_branch_dag.py took 0.046 seconds

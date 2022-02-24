@@ -1965,3 +1965,10 @@
 [2022-02-24 15:14:01,613] {logging_mixin.py:109} INFO - [2022-02-24 15:14:01,613] {dag.py:2396} INFO - Sync 1 DAGs
 [2022-02-24 15:14:01,622] {logging_mixin.py:109} INFO - [2022-02-24 15:14:01,621] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-02-23T23:14:01.618293+00:00
 [2022-02-24 15:14:01,627] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2022-02-24 15:15:13,399] {processor.py:163} INFO - Started process (PID=57623) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-02-24 15:15:13,400] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2022-02-24 15:15:13,400] {logging_mixin.py:109} INFO - [2022-02-24 15:15:13,400] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-02-24 15:15:13,417] {processor.py:654} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py
+[2022-02-24 15:15:13,429] {logging_mixin.py:109} INFO - [2022-02-24 15:15:13,429] {dag.py:2396} INFO - Sync 1 DAGs
+[2022-02-24 15:15:13,434] {logging_mixin.py:109} INFO - [2022-02-24 15:15:13,434] {dag.py:2935} INFO - Setting next_dagrun for example_task_group to 2022-02-23T23:15:13.433600+00:00
+[2022-02-24 15:15:13,438] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_task_group.py took 0.040 seconds

@@ -2246,3 +2246,11 @@
 [2022-02-24 15:13:49,723] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,723] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
 [2022-02-24 15:13:49,723] {logging_mixin.py:109} INFO - [2022-02-24 15:13:49,723] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
 [2022-02-24 15:13:49,728] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.151 seconds
+[2022-02-24 15:15:01,394] {processor.py:163} INFO - Started process (PID=57574) to work on /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:15:01,395] {processor.py:642} INFO - Processing file /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-02-24 15:15:01,395] {logging_mixin.py:109} INFO - [2022-02-24 15:15:01,395] {dagbag.py:500} INFO - Filling up the DagBag from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:15:01,422] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-02-24 15:15:01,545] {logging_mixin.py:109} INFO - [2022-02-24 15:15:01,544] {dag.py:2396} INFO - Sync 2 DAGs
+[2022-02-24 15:15:01,549] {logging_mixin.py:109} INFO - [2022-02-24 15:15:01,549] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args to None
+[2022-02-24 15:15:01,549] {logging_mixin.py:109} INFO - [2022-02-24 15:15:01,549] {dag.py:2935} INFO - Setting next_dagrun for example_xcom_args_with_operators to None
+[2022-02-24 15:15:01,554] {processor.py:171} INFO - Processing /Users/aleckienzle/Developer/nba-etl/env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.160 seconds
