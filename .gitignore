@@ -1,8 +1,8 @@
 .env
 
-/logs/
+airflow/logs
 
-standalone_admin_password.txt
-airflow-webserver.pid
-airflow.db
-dags/__pycache__
+airflow/standalone_admin_password.txt
+airflow/airflow-webserver.pid
+airflow/airflow.db
+airflow/dags/__pycache__
