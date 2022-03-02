@@ -5,4 +5,4 @@ First, I scrape some tabular NBA data from the Basketball Reference website (htt
 Python's Beautiful Soup library. Then, I clean and perform a few transformations on it using pandas. Finally, I load the transformed data into a Postgres
 database.
 
-The script for the ETL process can be accessed within the dags directory.
+The script for the ETL process can be accessed within airflow/dags.
