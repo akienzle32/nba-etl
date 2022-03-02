@@ -1,4 +1,5 @@
 .env
+nba-per-game.csv
 
 airflow/logs/
 airflow/airflow.cfg

@@ -54,7 +54,7 @@ def Etl():
 
         # SQL didn't like the percent sign, so I'm renaming those columns
         nba_df = nba_df.rename(columns={'FG%': 'FGpct', '3P%': '3Ppct', '2P%': '2Ppct', 'eFG%': 'eFGpct', 'FT%': 'FTpct'})
-        dataframe = nba_df
+        nba_df.to_csv('nba-per-game.csv')
 
     @task
     def load_data():
@@ -64,6 +64,7 @@ def Etl():
             print(USERNAME)
             PASSWORD = os.getenv('DB_PASSWORD')
             engine = create_engine(f'postgresql://{USERNAME}:{PASSWORD}@localhost:5432/nba')
+            dataframe = pandas.read_csv('nba-per-game.csv')
             dataframe.to_sql('per_game', con=engine, if_exists='replace')
             return 0
         except Exception as e:
