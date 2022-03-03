@@ -61,7 +61,6 @@ def Etl():
         try:
             load_dotenv()
             USERNAME = os.getenv('DB_USERNAME')
-            print(USERNAME)
             PASSWORD = os.getenv('DB_PASSWORD')
             engine = create_engine(f'postgresql://{USERNAME}:{PASSWORD}@localhost:5432/nba')
             dataframe = pandas.read_csv('nba-per-game.csv')
